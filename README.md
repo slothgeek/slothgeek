@@ -81,10 +81,10 @@ Asistente de IA para la gestión de citas de negocios de cuidado personal con no
 ### [**Benecash**](https://benecashcr.com)  
 Diseño y desarrollo de una plataforma de servicios financieros con calculadora crediticia y sistema de chat en vivo.
 
-### **Piel Pantera**(https://pielpantera.com)
+### [**Piel Pantera**](https://pielpantera.com)
 Desarrollo de una plataforma de diseño y confección de vestidos con herramientas de asesoría de imagen.  
 
-### **Rich Fit Tips**(https://rich-fit-tips.com)
+### [**Rich Fit Tips**](https://rich-fit-tips.com)
 Desarrollo de plataforma para venta de programas de entrenamiento físico en línea
 
 ---
