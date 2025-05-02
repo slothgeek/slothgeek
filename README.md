@@ -40,7 +40,7 @@ Desarrollador de Plataformas Educativas | 2024 - Presente
 - Integración de Twilio para notificaciones automatizadas en WhatsApp.  
 - Desarrollo de un sistema modular de plantillas de mensajes personalizables.  
 - Implementación de asistentes de IA para la gestión de citas y automatización de servicios.
-- - [Visitar Proyecto](https://www.officia.app)
+- [Visitar Proyecto](https://www.officia.app)
 
 ### **Train-In Formación Virtual**  
 Desarrollador de Plataformas Educativas | 2017 - 2020  
@@ -48,7 +48,7 @@ Desarrollador de Plataformas Educativas | 2017 - 2020
 - Creación de cursos interactivos y sistemas de evaluación automatizados.  
 - Soporte técnico y personalización de la experiencia de aprendizaje digital para instituciones académicas.  
 - Consultoría en la mejora continua de experiencias educativas online.
-- - [Visitar Proyecto](https://train-in.cr)
+- [Visitar Proyecto](https://train-in.cr)
 
 ### **SlothGeek**  
 Fundador & Diseñador Creativo | 2020 - Presente  
