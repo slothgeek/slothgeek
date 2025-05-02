@@ -16,8 +16,8 @@ Apasionado por el desarrollo de soluciones tecnológicas eficientes y escalables
 
 - **CMS:** Wordpress, Strapi
 - **LMS:** Moodle, Learndash
-- **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS  
-- **Backend:** Node.js, Express, Strapi 5, Wordpress  
+- **Frontend:** React, Nextjs, Astro, HTML5, CSS3, TailwindCSS  
+- **Backend:** Node, Express, Strapi 5, Wordpress  
 - **Bases de Datos:** MongoDB, PostgreSQL, MySQL
 - **APIs y Servicios:** REST, GraphQL, Integración con Twilio, Google Calendar  
 - **Herramientas:** Git, Docker, Postman, VSCode  
@@ -36,23 +36,25 @@ Freelance | 2020 - Presente
 
 ### **Desarrollo de aplicación para Gestión de Servicios (Officia)**  
 Desarrollador de Plataformas Educativas | 2024 - Presente
-- Creación de un MVP con Strapi y Next.js, permitiendo a empresas gestionar agendas, sucursales y servicios.  
+- Creación de aplicación web con Strapi y Nextjs, permitiendo a empresas gestionar agendas, sucursales y servicios.  
 - Integración de Twilio para notificaciones automatizadas en WhatsApp.  
 - Desarrollo de un sistema modular de plantillas de mensajes personalizables.  
 - Implementación de asistentes de IA para la gestión de citas y automatización de servicios.
+- - [Visitar Proyecto](https://www.officia.app)
 
 ### **Train-In Formación Virtual**  
 Desarrollador de Plataformas Educativas | 2017 - 2020  
 - Implementación y mantenimiento de plataformas Moodle para educación virtual.  
 - Creación de cursos interactivos y sistemas de evaluación automatizados.  
 - Soporte técnico y personalización de la experiencia de aprendizaje digital para instituciones académicas.  
-- Consultoría en la mejora continua de experiencias educativas online.  
+- Consultoría en la mejora continua de experiencias educativas online.
+- - [Visitar Proyecto](https://train-in.cr)
 
 ### **SlothGeek**  
 Fundador & Diseñador Creativo | 2020 - Presente  
-- Creación y lanzamiento de una línea de camisetas inspiradas en el lujo sobrio, emprendimiento y crecimiento personal.  
-- Diseño de estampados minimalistas inspirados en el libro "Piense y Hágase Rico".  
-- Gestión de producción, marketing y ventas de la marca para posicionarla en el mercado de moda para hombres de entre 25 a 35 años. 
+- Desarrollo Wordpress especializado
+- Fundador y administrador de negocio
+- [Visitar Proyecto](https://www.slothgeek.com)
 
 ---
 
