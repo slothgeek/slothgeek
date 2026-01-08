@@ -18,6 +18,7 @@ Apasionado por el desarrollo de soluciones tecnológicas eficientes y escalables
 - **LMS:** Moodle, Learndash - Lv |||||
 - **Frontend:** React, Nextjs, Astro, HTML5, CSS3, TailwindCSS  - Lv |||||
 - **Backend:** Node, Express, Strapi 5, Wordpress, Python - Lv ||||
+- **IA:** LangChain, LangGraph, LangSmith
 - **Bases de Datos:** MongoDB, PostgreSQL, MySQL - Lv ||||
 - **APIs y Servicios:** REST, GraphQL, Integración con Twilio, Google Calendar - Lv ||||
 - **Herramientas:** Git, Docker, Postman, VSCode  
