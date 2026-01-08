@@ -78,7 +78,7 @@ Fecha de graduación: Incompleto (Tercer año)
 
 ## 📢 **Algunos Proyectos Destacados**  
 
-### [**Officia Ahent**](https://officia.app)  
+### [**Officia Agent**](https://officia.app)  
 Asistente de IA para la gestión de citas de negocios de cuidado personal con notificaciones automatizadas por Whatsapp.
 
 ### [**Rich Fit Tips App**](https://app.rich-fit-tips.com)
