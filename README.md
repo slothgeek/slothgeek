@@ -8,18 +8,18 @@
 
 ## 🚀 **Perfil Profesional**  
 
-Apasionado por el desarrollo de soluciones tecnológicas eficientes y escalables, con más de 14 años de experiencia en la creación de aplicaciones web modernas. Experto en Wordpress, Moodle, JavaScript, Node.js, React, Strapi, y tecnologías para la automatización de flujos de negocio. Mi enfoque está en ofrecer experiencias digitales intuitivas y herramientas que empoderen a las empresas.  
+Apasionado por el desarrollo de soluciones tecnológicas eficientes y escalables, con más de 15 años de experiencia en la creación de aplicaciones web modernas. Experto en Wordpress, Moodle, JavaScript, Node.js, React, Strapi, y tecnologías para la automatización de flujos de negocio. Mi enfoque está en ofrecer experiencias digitales intuitivas y herramientas que empoderen a las empresas.  
 
 ---
 
 ## 🛠 **Habilidades Técnicas**  
 
-- **CMS:** Wordpress, Strapi
-- **LMS:** Moodle, Learndash
-- **Frontend:** React, Nextjs, Astro, HTML5, CSS3, TailwindCSS  
-- **Backend:** Node, Express, Strapi 5, Wordpress  
-- **Bases de Datos:** MongoDB, PostgreSQL, MySQL
-- **APIs y Servicios:** REST, GraphQL, Integración con Twilio, Google Calendar  
+- **CMS:** Wordpress, Strapi - Lv ||||
+- **LMS:** Moodle, Learndash - Lv |||||
+- **Frontend:** React, Nextjs, Astro, HTML5, CSS3, TailwindCSS  - Lv |||||
+- **Backend:** Node, Express, Strapi 5, Wordpress, Python - Lv ||||
+- **Bases de Datos:** MongoDB, PostgreSQL, MySQL - Lv ||||
+- **APIs y Servicios:** REST, GraphQL, Integración con Twilio, Google Calendar - Lv ||||
 - **Herramientas:** Git, Docker, Postman, VSCode  
 - **Notificaciones y Automatización:** WhatsApp API, Integración con OpenAI  
 
@@ -54,6 +54,7 @@ Desarrollador de Plataformas Educativas | 2017 - 2020
 Fundador & Diseñador Creativo | 2020 - Presente  
 - Desarrollo Wordpress especializado
 - Fundador y administrador de negocio
+- Desarrollo de aplicaciones web a la medida
 - [Visitar Proyecto](https://www.slothgeek.com)
 
 ---
@@ -75,13 +76,19 @@ Fecha de graduación: Incompleto (Tercer año)
 
 ---
 
-## 📢 **Proyectos Destacados**  
+## 📢 **Algunos Proyectos Destacados**  
 
-### [**Officia**](https://officia.app)  
+### [**Officia Ahent**](https://officia.app)  
 Asistente de IA para la gestión de citas de negocios de cuidado personal con notificaciones automatizadas por Whatsapp.
 
-### [**Benecash**](https://benecashcr.com)  
-Diseño y desarrollo de una plataforma de servicios financieros con calculadora crediticia y sistema de chat en vivo.
+### [**Rich Fit Tips App**](https://app.rich-fit-tips.com)
+Desarrollo de PWA para rutinas y planes de entrenamiento físico.
+
+### [**Daniel Construye**](https://danielconstruye.cr)  
+Diseño y desarrollo de Sitio web Informativo
+
+### [**Nnia Studio**](https://benecashcr.com)  
+Diseño y desarrollo de una plataforma de comercio electrónico tipo Headless
 
 ### [**Piel Pantera**](https://pielpantera.com)
 Desarrollo de una plataforma de diseño y confección de vestidos con herramientas de asesoría de imagen.  
@@ -89,12 +96,15 @@ Desarrollo de una plataforma de diseño y confección de vestidos con herramient
 ### [**Rich Fit Tips**](https://rich-fit-tips.com)
 Desarrollo de plataforma para venta de programas de entrenamiento físico en línea
 
+### [**Benecash**](https://benecashcr.com)  
+Diseño y desarrollo de una plataforma de servicios financieros con calculadora crediticia y sistema de chat en vivo.
+
 ---
 
 ## 📅 **Disponibilidad**  
-
+En Búsqueda de oportunidades.
 Ofrezco consultorías gratuitas de 30 minutos para analizar proyectos tecnológicos. Podés agendar una cita [aquí](https://www.officia.app/slothgeek).  
 
 ---
 
-Solo podés crecer si estás dispuesto a salir de tu zona de confort.
+Mantra: Solo podés crecer si estás dispuesto a salir de tu zona de confort.
